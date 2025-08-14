@@ -1,0 +1,1 @@
+# pydantic_crash_course
